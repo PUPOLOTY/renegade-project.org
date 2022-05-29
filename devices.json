@@ -73,7 +73,7 @@
 			"charging":"y",
 			"gpu":"y",
 			"buttons":"y",
-			"lte":"p",
+			"lte":"y",
 			"camera":"n",
 			"gps":"y"
 		},
@@ -98,7 +98,7 @@
 			"charging":"y",
 			"buttons":"y",
 			"gpu":"y",
-			"lte":"p",
+			"lte":"y",
 			"gps":"y"
 		},
 		"message":{
